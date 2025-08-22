@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Olá, eu sou Nuvim 👋</h1>
-<h3 align="center">Um desenvolvedor apaixonado por tecnologia.</h3>
+<h3 align="center">Aprendendo com o tempo.</h3>
 
 ---
 
