@@ -1,6 +1,6 @@
 
 <h1 align="center">Olá, eu me chamo Gusttavo 👋</h1>
-<h3 align="center">Sou iniciante</h3>
+<h3 align="center">procuro sempre evoluir</h3>
 
 ---
 
