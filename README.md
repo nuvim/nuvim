@@ -1,26 +1,35 @@
-
 <h1 align="center">Olá, eu me chamo Gusttavo 👋</h1>
-<h3 align="center">procuro sempre evoluir</h3>
+<h3 align="center">Estudante de Ciência da Computação</h3>
 
----
+<p align="center">
+  Focado no desenvolvimento de soluções eficientes e no aprendizado contínuo de novas tecnologias.
+</p>
 
-### 💻 Tecnologias e Ferramentas:
-
-<p align="center"> 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,git" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/luiz-gusttavo/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
-
-### 📊 Minhas Estatísticas do GitHub:
+### 💻 Tecnologias e Ferramentas:
 
 <p align="center">
-  <a href="https://github.com/nuvim">
-    <img src="https://github-readme-stats.vercel.app/api?username=nuvim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuvim&langs_count=8&theme=dracula"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,c,js,html,css,vue,vite,git,linux,github" />
   </a>
+</p>
+
+---
+
+### 🚀 Sobre o meu GitHub:
+
+* 🛠️ **Desenvolvimento:** Experiência com C/C++ para lógica e Python para automação e scripts.
+* 🌐 **Front-end:** Construindo interfaces básicas.
+* 🎓 **Acadêmico:** Repositórios de projetos universitários, incluindo Sistemas Distribuidos, Inteligência Artificial e Ciências de dados.
+---
+
+<p align="center">
+  "A evolução é constante, um commit de cada vez."
 </p>
