@@ -23,13 +23,28 @@
 
 ---
 
+### 📈 Minhas Habilidades em Destaque:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuvim&layout=compact&langs_count=8&theme=dracula" alt="Top Linguagens" />
+</p>
+
+---
+
 ### 🚀 Sobre o meu GitHub:
 
 * 🛠️ **Desenvolvimento:** Experiência com C/C++ para lógica e Python para automação e scripts.
 * 🌐 **Front-end:** Construindo interfaces básicas.
-* 🎓 **Acadêmico:** Repositórios de projetos universitários, incluindo Sistemas Distribuidos, Inteligência Artificial e Ciências de dados.
+* 🎓 **Acadêmico:** Repositórios de projetos universitários, incluindo Sistemas Distribuídos, Inteligência Artificial e Ciências de dados.
+
 ---
 
 <p align="center">
   "A evolução é constante, um commit de cada vez."
+</p>
+
+### Contribuições no GitHub:
+
+<p align="center">
+  <img src="https://github.com/nuvim/nuvim/blob/output/github-snake.svg?raw=true" alt="GitHub Snake" />
 </p>
