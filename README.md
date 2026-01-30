@@ -23,12 +23,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Gusttavo&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Ciência%20da%20Computação&descAlignY=55&descSize=20&fontColor=ffffff" />
-</div>
-
----
-
 ### 🚀 Sobre o meu GitHub:
 
 * 🛠️ **Desenvolvimento:** Experiência com C/C++ para lógica e Python para automação e scripts.
