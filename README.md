@@ -46,5 +46,5 @@
 ### Contribuições no GitHub:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nuvim/nuvim/output/github-snake.svg" alt="GitHub Snake" />
+  <img src="https://raw.githubusercontent.com/nuvim/nuvim/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </p>
