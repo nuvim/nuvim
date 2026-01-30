@@ -23,13 +23,9 @@
 
 ---
 
-### 🧠 O que estou estudando:
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=435&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Focado+em+Python+e+C%2B%2B;Explorando+IA+e+Sistemas+Distribu%C3%ADdos" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Gusttavo&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Ciência%20da%20Computação&descAlignY=55&descSize=20&fontColor=ffffff" />
+</div>
 
 ---
 
