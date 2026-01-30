@@ -2,19 +2,19 @@ name: Generate GitHub Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Roda todo dia meia-noite
+    - cron: "0 0 * * *" # Roda todo dia à meia-noite
   workflow_dispatch: # Permite rodar manualmente
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions: 
-      contents: write # Permissão OBRIGATÓRIA para criar a branch
+      contents: write # Permissão essencial para gravar a imagem
     
     steps:
       - uses: actions/checkout@v3
       
-      # Gera a animação e cria a pasta dist automaticamente
+      # Gera a animação da cobrinha
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -23,7 +23,7 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      # Envia o conteúdo da pasta dist para a branch output
+      # Publica a imagem na branch 'output'
       - name: Push to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
