@@ -23,10 +23,12 @@
 
 ---
 
-### 📈 Minhas Habilidades em Destaque:
+### 🧠 O que estou estudando:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuvim&layout=compact&langs_count=8&theme=dracula&include_all_commits=true&count_private=true" alt="Top Linguagens" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=435&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Focado+em+Python+e+C%2B%2B;Explorando+IA+e+Sistemas+Distribu%C3%ADdos" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
